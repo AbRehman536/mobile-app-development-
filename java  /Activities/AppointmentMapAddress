@@ -33,9 +33,6 @@ import com.medi360.R;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by vijaya_ on 7/1/2016.
- */
 public class AppointmentMapAddress extends FragmentActivity implements OnMapReadyCallback {
 
     GoogleMap googleMap;
