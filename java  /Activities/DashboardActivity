@@ -16,9 +16,6 @@ import com.medi360.Adapter.PreviousAppintmentListAdapter;
 import com.medi360.R;
 import com.medi360.utils.Utils;
 
-/**
- * Created by Mohanraj.SK on 6/26/2016.
- */
 public class DashboardActivity extends AppCompatActivity implements View.OnClickListener {
 
     LinearLayout previousAppointmentVw,scheduleAppointmentVw,trackKioskVW,profileVw;
