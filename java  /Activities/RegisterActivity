@@ -29,9 +29,6 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 
-/**
- * Created by vijaya_ on 6/29/2016.
- */
 public class RegisterActivity extends AppCompatActivity{
 
     Utils utilsObj = new Utils();
