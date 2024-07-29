@@ -9,10 +9,6 @@ import org.acra.annotation.ReportsCrashes;
 import org.acra.sender.HttpSender;
 
 
-
-/**
- * Created by Mac on 11/07/16.
- */
 @ReportsCrashes(
         httpMethod = HttpSender.Method.PUT,
         reportType = HttpSender.Type.JSON,
