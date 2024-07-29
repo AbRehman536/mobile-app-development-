@@ -46,9 +46,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
-/**
- * Created by Mohanraj.SK on 6/27/2016.
- */
 public class ScheduleAppointmentActivity extends AppCompatActivity {
 
     Utils utilsObj = new Utils();
