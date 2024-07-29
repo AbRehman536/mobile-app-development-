@@ -11,9 +11,6 @@ import com.medi360.R;
 import com.crashlytics.android.Crashlytics;
 import io.fabric.sdk.android.Fabric;
 
-/**
- * Created by Mohanraj.SK on 6/25/2016.
- */
 public class WelcomeActivity extends AppCompatActivity {
 
     TextView tvHello;
